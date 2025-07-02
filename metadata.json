@@ -1,0 +1,8 @@
+{
+  "name": "Image Sonifier",
+  "description": "An interactive web application that transforms images into unique soundscapes. Upload an image, adjust audio parameters, and listen to the sonified result. Supports webcam capture and saving audio as WAV files.",
+  "requestFramePermissions": [
+    "camera"
+  ],
+  "prompt": ""
+}
