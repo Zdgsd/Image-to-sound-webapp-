@@ -44,11 +44,3 @@ Happy with your creation? You can save it as a high-quality `.wav` file to use a
     ```
 3.  **Open in Browser**: Navigate to the local address provided by the server (e.g., `http://localhost:3000`).
 
-## How to Deploy
-
-This project can be deployed as a **Static Site** on services like Vercel or Render.
-
-1.  Create a new "Static Site" and connect your Git repository.
-2.  Use the following settings:
-    *   **Build Command**: `npm install && npm run build`
-    *   **Publish Directory**: `.` (the root of your repository)
